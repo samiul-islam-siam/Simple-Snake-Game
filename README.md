@@ -31,7 +31,7 @@ Before running the project, install:
 
 2. **Open Logisim**
 
-3. Click **File → Open** and select the snake_game_final `.circ` file.
+3. Click **File → Open** and select the `snake_game_final.circ` file.
 
 4. Go to **Simulate** menu and ensure:
 
@@ -41,8 +41,8 @@ Before running the project, install:
 5. Set **Tick Frequency** to **8 Hz**
    *(recommended for smooth gameplay)*
 
-6. **Controls**
-   Use your keyboard to move the snake:
+6. Click **Controls** and
+   use your keyboard to move the snake:
 
     * **W** — Up
     * **A** — Left
